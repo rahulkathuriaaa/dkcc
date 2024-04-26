@@ -11,7 +11,9 @@ const Guide = () => {
         </p>
         <div className="flex flex-wrap justify-between gap-5 lg:gap-10">
           <h2 className="bold-40 lg:bold-64 xl:max-w-[390px]">Guide You to Easy Path</h2>
-          <p className="regular-16 text-gray-30 xl:max-w-[520px]">Only with the hilink application you will no longer get lost and get lost again, because we already support offline maps when there is no internet connection in the field. Invite your friends, relatives and friends to have fun in the wilderness through the valley and reach the top of the mountain</p>
+          <p className="regular-16 text-gray-30 xl:max-w-[520px]">
+          Decorating the already pleasant locations in Central Delhi, Gurugram & Delhi NCR with the homely decoratives you call your home since 1996. From an one man operation to a well established and trusted corporation in the national capital we have learned and gained a deeper understanding of your long awaited dreams whilst fulfilling your needs in a budget of your comfort.
+            </p>
         </div>
       </div>
 
